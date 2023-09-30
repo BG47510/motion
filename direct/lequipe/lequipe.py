@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # par github.com/BG47510
 import requests
-
+import sys
 
 # idvideo (str): L'ID de la vidéo Dailymotion.
 def dailymotion(idvideo: str):
