@@ -13,7 +13,7 @@ def dailymotion(idvideo: str):
         m3u8 = requests.get(flux).text
         print(m3u8)
     # Exception: si une erreur se produit lors de la récupération des flux.
-    except Exception as m3u8:
+    except Exception as e:
         m3u8 = "https://raw.githubusercontent.com/BG47510/Zap/main/assets/error.m3u8"
         print(m3u8)
 
