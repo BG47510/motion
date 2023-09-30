@@ -9,4 +9,4 @@ def pompe():
 	m3u8 = requests.get(flux).text
 	print(m3u8)
 
-pompe()
+#pompe()
