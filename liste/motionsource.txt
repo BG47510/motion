@@ -1,0 +1,48 @@
+~~ Ne pas modifier les 2 premières lignes
+~~ FORMAT: <channel name> | <group title> | <logo> | <tvg-id>
+
+CSTAR | Musique | |
+https://www.dailymotion.com/video/x5gv5v0
+Sud Radio | Radio | |
+https://www.dailymotion.com/video/x8jqxru
+Fun Radio | Musique | |
+https://www.dailymotion.com/video/xxtuy6
+La Chaine L'Equipe | Sport | |
+https://www.dailymotion.com/video/x2lefik
+Euronews | Info | |
+https://www.dailymotion.com/video/x2j4lj9
+France Info | Info | |
+https://www.dailymotion.com/video/x4rdeu6
+N31 | Récréatif | |
+https://www.dailymotion.com/video/x6nkjg1
+BFM TV | Info | |
+https://www.dailymotion.com/video/xgz4t1
+RMC Story | | |
+https://www.dailymotion.com/video/x8jcco6
+8 Mont Blanc live 1 | Local | |
+https://www.dailymotion.com/video/x3wqv8b
+8 Mont Blanc live 2 | Local | |
+https://www.dailymotion.com/video/x71o73v
+Journal du Golf | Sport | |
+https://www.dailymotion.com/video/k5VKYQn5hAE4vfry927
+Télénantes| Local | |
+https://www.dailymotion.com/video/x5so98l
+ISHUSHO TV | | |
+https://www.dailymotion.com/video/x8hhx88
+La Chaine L'Equipe | Sport | |
+https://www.dailymotion.com/video/x2lefik
+CNEWS | Info | |
+https://www.dailymotion.com/video/x3b68jn
+C8 |  | |
+https://www.dailymotion.com/video/x5gv5rr
+Canal + |  | |
+https://www.dailymotion.com/video/x5gv6be
+RTL | Radio | |
+https://www.dailymotion.com/video/xl1km0
+LCP Canal 100%| Info | |
+https://www.dailymotion.com/video/xgepjr
+LCP Assemblée nationale | Info | |
+https://www.dailymotion.com/video/xji3qy
+PUBLIC SENAT | Info | |
+https://www.dailymotion.com/video/xkxbzc
+
