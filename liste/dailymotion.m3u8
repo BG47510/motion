@@ -1,1 +1,67 @@
+#EXTM3U
 
+#EXTINF:-1 group-title="Musique" tvg-logo="" tvg-id="", CSTAR
+https://raw.githubusercontent.com/BG47510/Zap/main/assets/error.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Sud Radio
+https://www.dailymotion.com/cdn/live/video/x8jqxru.m3u8?sec=P9VzYtp2gRSqS6ajSX5XoqGTNaX5V3eapLxDtc_QMWX3dOXh4aZHeTscdv4jWKZT&dmTs=309154&dmV1st=259980e9-520b-414b-a87f-b088d2c68915
+
+#EXTINF:-1 group-title="Musique" tvg-logo="" tvg-id="", Fun Radio
+https://www.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=IndUQx7XvV8TPNuB37lyxn1YNQsz49khj2RxhuE9M0iVjs1PuMVz8JeEqSAI_YZw&dmTs=977447&dmV1st=9f91b287-e84f-47b9-8f35-976c66c62196
+
+#EXTINF:-1 group-title="Sport" tvg-logo="" tvg-id="", La Chaine L'Equipe
+https://raw.githubusercontent.com/BG47510/Zap/main/assets/error.m3u8
+
+#EXTINF:-1 group-title="Info" tvg-logo="" tvg-id="", Euronews
+https://www.dailymotion.com/cdn/live/video/x2j4lj9.m3u8?sec=SHFkmXL6quHEGA0KlyyIOzX_y2OVEnjPT2gcFctYprFgti68Z6STwkGvreW6lE2I&dmTs=462283&dmV1st=11aa284d-cccb-4aed-bef7-977389be870e
+
+#EXTINF:-1 group-title="Info" tvg-logo="" tvg-id="", France Info
+https://www.dailymotion.com/cdn/live/video/x4rdeu6.m3u8?sec=aXqUocxutUlOsxk543E1OpfB8DTO73vUghO7Zo1eUPRNPPe1xdl-ZnRAVYzrLqFc&dmTs=993422&dmV1st=9c836c2f-985f-4b9e-8843-ba7158f13123
+
+#EXTINF:-1 group-title="Récréatif" tvg-logo="" tvg-id="", N31
+https://www.dailymotion.com/cdn/live/video/x6nkjg1.m3u8?sec=OrrDJCPkKFB5htM09b9AFKQREF7p_X9K8QK6LAuO0usm7lGnvtMWfLr_-xsTDLWp&dmTs=782492&dmV1st=208b46cc-cb94-4d2d-afcf-3215d6376942
+
+#EXTINF:-1 group-title="Info" tvg-logo="" tvg-id="", BFM TV
+https://raw.githubusercontent.com/BG47510/Zap/main/assets/error.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", RMC Story
+https://raw.githubusercontent.com/BG47510/Zap/main/assets/error.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="", 8 Mont Blanc live 1
+https://www.dailymotion.com/cdn/live/video/x3wqv8b.m3u8?sec=urGmr-KJ8yQJaG5kqs1fk-bglN709ve1zRN618Tb8eJwzLMdD6jdM272WKcdwqR7&dmTs=79545&dmV1st=db7f35ac-b3d2-4140-b66b-0f56765387c1
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="", 8 Mont Blanc live 2
+https://www.dailymotion.com/cdn/live/video/x71o73v.m3u8?sec=OmPksBXj8HN_ldrDgBfFfAPY79QQzm3WMzjvO-fhvkPbal9kw4vy5XETy6bz7qDW&dmTs=824421&dmV1st=5dbc6ea6-9c8b-472d-af4e-355d84f96855
+
+#EXTINF:-1 group-title="Sport" tvg-logo="" tvg-id="", Journal du Golf
+https://raw.githubusercontent.com/BG47510/Zap/main/assets/error.m3u8
+
+#EXTINF:-1 group-title="Local" tvg-logo="" tvg-id="", Télénantes
+https://www.dailymotion.com/cdn/live/video/x5so98l.m3u8?sec=J9bH2xvoUy71gCOPci526DdByTCApq4FV-4fYI87bIs_XEmgx7v6-2-DvmTakhS-&dmTs=141920&dmV1st=cf3bab8a-43cf-4793-9b1e-f034ae9fce4b
+
+#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", ISHUSHO TV
+https://www.dailymotion.com/cdn/live/video/x8hhx88.m3u8?sec=fLBLyv4QdXRaQN7GVmxHjy9iXrRrb4JsEht8lYS2YJiCirUo6C3vLP87BnccKNaU&dmTs=990051&dmV1st=de6dc451-d8ee-4cc0-9648-2d5f56ab46da
+
+#EXTINF:-1 group-title="Sport" tvg-logo="" tvg-id="", La Chaine L'Equipe
+https://raw.githubusercontent.com/BG47510/Zap/main/assets/error.m3u8
+
+#EXTINF:-1 group-title="Info" tvg-logo="" tvg-id="", CNEWS
+https://www.dailymotion.com/cdn/live/video/x3b68jn.m3u8?sec=_rkvy1Te6L0mmmY2IYESuBbPj66RZE-Szti-oXSiPSIYoeJ-2oMCL1dFUNV_FYSm&dmTs=73844&dmV1st=b70f293d-346a-4ecd-89d7-87e59f36bdfe
+
+#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", C8
+https://www.dailymotion.com/cdn/live/video/x5gv5rr.m3u8?sec=5H_jdTRxFtGipo1hXmR4jdrrOKQOtkHZrb0LjKIsMroM0G48s6omVn-dANpkMA4Z&dmTs=857568&dmV1st=6a1d4d4c-31d7-46db-aaf8-7b2791b519d9
+
+#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", Canal +
+https://raw.githubusercontent.com/BG47510/Zap/main/assets/error.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", RTL
+https://www.dailymotion.com/cdn/live/video/xl1km0.m3u8?sec=Ymd-IZExMeYOpBqc8X7W4FzTJdN6ADaxGBxWpDumX3Bs20wAQrUxCK7MYjLG99GZ&dmTs=848522&dmV1st=a1f8cb46-1862-49f5-9d8c-195c505d6514
+
+#EXTINF:-1 group-title="Info" tvg-logo="" tvg-id="", LCP Canal 100%
+https://raw.githubusercontent.com/BG47510/Zap/main/assets/error.m3u8
+
+#EXTINF:-1 group-title="Info" tvg-logo="" tvg-id="", LCP Assemblée nationale
+https://raw.githubusercontent.com/BG47510/Zap/main/assets/error.m3u8
+
+#EXTINF:-1 group-title="Info" tvg-logo="" tvg-id="", PUBLIC SENAT
+https://www.dailymotion.com/cdn/live/video/xkxbzc.m3u8?sec=tMc672eRqnVgw31RKbGBWXIkA28MqrL2lxvEmv15NdhTNTQd_A27ZIpaa4U5NZa2&dmTs=578241&dmV1st=3857ec82-2fb5-4250-b405-c3a9c02e8d4e
