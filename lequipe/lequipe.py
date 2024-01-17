@@ -25,7 +25,7 @@ headers = {
     "Referer": "https://www.lequipe.fr/tv/videos/",
 }
 
-url = "https://www.dailymotion.com/player/metadata/video/k5TgcOKBUTM2KnqwBWC"
+#url = "https://www.dailymotion.com/player/metadata/video/k5TgcOKBUTM2KnqwBWC"
 
 erreur = 'https://raw.githubusercontent.com/BG47510/Zap/main/assets/error.m3u8'
 
@@ -42,8 +42,8 @@ def snif(url):
 
 
 s = requests.Session()
-result = snif(url)
-#result = snif(str(sys.argv[1]))
+#result = snif(url)
+result = snif(str(sys.argv[1]))
 print(result)
 
 
