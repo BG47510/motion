@@ -25,7 +25,7 @@ def dailymotion(idvideo):
 
 s = requests.Session()
 
-if (sys.argv[1] == 'lequipe'):
+if (sys.argv[1] = 'lequipe'):
     idvideo = 'x2lefik'
 #elif (sys.argv[1] == 'lequipe1'):
 #    idvideo = 'k1kypsRZF9plQhqwBRS'
