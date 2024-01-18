@@ -20,7 +20,8 @@ def dailymotion(url):
         print(m3u8)
     # Exception: si une erreur se produit lors de la récupération des flux.
     except Exception as m3u8:
-        m3u8 = "https://raw.githubusercontent.com/BG47510/Zap/main/assets/error.m3u8"
+        erreur = "https://raw.githubusercontent.com/BG47510/Zap/main/assets/error.m3u8"
+        m3u8 = requests.get(erreur).text
         print(m3u8)
 
 s = requests.Session()
