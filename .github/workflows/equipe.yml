@@ -2,8 +2,8 @@ name: lequipe flux
 
 # Actualisation du flux á la 57 ème minute à 9 heures et 21 heures.
 on:
-  schedule:
-    - cron: '57 9,21 * * *'
+#  schedule:
+   # - cron: '57 9,21 * * *'
     
   workflow_dispatch:
 
