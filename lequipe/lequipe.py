@@ -30,5 +30,5 @@ s = requests.Session()
 #sys.argv[1] [1] désigne le premier argument de ligne de commande traité par le script.
 #str() utilisé avec sys.argv affiche les arguments du tableau de la ligne de commande.
 
-result = dailymotion(str(sys.argv[2]))
+result = dailymotion(str(sys.argv[1]))
 print(result)
