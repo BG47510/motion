@@ -29,14 +29,14 @@ if (sys.argv[2] == 'lequipe'):
     idvideo = 'x2lefik'
 elif (sys.argv[1] == 'lequipe1'):
     idvideo = 'k1kypsRZF9plQhqwBRS'
-#elif (sys.argv[1] == 'lequipe2'):
-   # idvideo = 'k5TgcOKBUTM2KnqwBWC'
-#elif (sys.argv[1] == 'lequipe3'):
-#    idvideo = 'k5s40USR9HxnG5aCf1y'
-#elif (sys.argv[1] == 'lequipe4'):
-  #  idvideo = 'kXRfcKHV9HhcZuqwBYP'
-#elif (sys.argv[1] == 'lequipe5'):
-   # idvideo = 'k6oih7JyuEmhrnqwBZT'
+elif (sys.argv[1] == 'lequipe2'):
+    idvideo = 'k5TgcOKBUTM2KnqwBWC'
+elif (sys.argv[1] == 'lequipe3'):
+    idvideo = 'k5s40USR9HxnG5aCf1y'
+elif (sys.argv[1] == 'lequipe4'):
+    idvideo = 'kXRfcKHV9HhcZuqwBYP'
+elif (sys.argv[1] == 'lequipe5'):
+    idvideo = 'k6oih7JyuEmhrnqwBZT'
 else:
     sys.exit(1)
 
