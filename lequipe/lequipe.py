@@ -1,10 +1,7 @@
 #! /usr/bin/python3
 # par github.com/BG47510
 
-from urllib.parse import unquote
 import requests
-import re
-import sys
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0",
@@ -25,10 +22,6 @@ def dailymotion(url):
         print(m3u8)
 
 s = requests.Session()
-
-#sys.argv[0] désigne le nom de fichier du script en cours d’exécution.
-#sys.argv[1] [1] désigne le premier argument de ligne de commande traité par le script.
-#str() utilisé avec sys.argv affiche les arguments du tableau de la ligne de commande.
 
 result = dailymotion("https://www.dailymotion.com/player/metadata/video/x2lefik")
 print(result)
