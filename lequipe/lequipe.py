@@ -3,6 +3,11 @@
 
 import requests
 
+proxies = {
+  "http": "http://45.134.79.166",
+  "https": "https://143.244.57.89",
+}
+
 headers = {
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
     'Accept-Language': 'fr,fr-FR;q=0.8',
@@ -12,7 +17,7 @@ headers = {
 def dailymotion(url):
     # Récupération des flux.
     try:
-        base = s.get(url, headers=headers, timeout=15).json()
+        base = s.get(url, headers=headers, proxies=proxies, timeout=15).json()
         flux = base["qualities"]["auto"][0]["url"]
         m3u8 = requests.get(flux).text
         print(m3u8)
@@ -23,5 +28,5 @@ def dailymotion(url):
 
 s = requests.Session()
 
-result = dailymotion("https://www.dailymotion.com/player/metadata/video/x2j4lj9")
+result = dailymotion("https://www.dailymotion.com/player/metadata/video/x2lefik")
 print(result)
