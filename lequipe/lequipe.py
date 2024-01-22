@@ -4,8 +4,8 @@
 import requests
 
 proxies = {
-  "http": "http://45.134.79.166",
-  "https": "https://143.244.57.89",
+  "http": "http://51.254.167.41",
+  "https": "https://145.239.199.109",
 }
 
 headers = {
