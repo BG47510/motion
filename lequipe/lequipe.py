@@ -23,5 +23,5 @@ def dailymotion(url):
 
 s = requests.Session()
 
-result = dailymotion("https://www.dailymotion.com/player/metadata/video/x2lefik")
+result = dailymotion("https://www.dailymotion.com/player/metadata/video/x2j4lj9")
 print(result)
