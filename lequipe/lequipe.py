@@ -4,7 +4,7 @@
 import requests
 
 proxies = {
-  "http": "http://51.254.167.41",
+  #"http": "http://51.254.167.41",
   "https": "https://145.239.199.109",
 }
 
