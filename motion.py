@@ -13,10 +13,11 @@ erreur = requests.get("https://raw.githubusercontent.com/BG47510/Zap/main/assets
 s = requests.session()
 s
 def snif(url):
-    lien = s.get(url, headers=headers).text
+    base = s.get(url, headers=headers)
+    lien = (base).text
     flux = lien.replace("http://s2.callofliberty.fr/HLS-AES/", "")
    # print(flux)
-    if status_code == 200:
+    if base.status_code == 200:
         print(flux)
     else:
         print(erreur)
