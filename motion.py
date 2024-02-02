@@ -16,7 +16,7 @@ def snif(url):
     lien = s.get(url, headers=headers).text
     flux = lien.replace("http://s2.callofliberty.fr/HLS-AES/", "")
    # print(flux)
-    if resp.status_code == 200:
+    if lien.status_code == 200:
         print(flux)
     else:
         print(erreur)
