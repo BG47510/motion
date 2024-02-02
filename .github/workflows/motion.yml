@@ -1,4 +1,4 @@
-name: tube
+name: motion
 
 # # Actualisation du flux toutes les 3 heures. 
 on:
