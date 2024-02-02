@@ -1,4 +1,4 @@
-name: l
+name: liste
 
 # Actualisation du flux á la 44ème minute toutes les 3 heures. 
 on:
