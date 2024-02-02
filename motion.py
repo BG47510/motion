@@ -22,6 +22,6 @@ def snif(url):
         print(erreur)
 
 
-m3u8 = snif(str(sys.argv[1]))
+m3u8 = snif(sys.argv[1])
 print(m3u8)
 
