@@ -37,8 +37,6 @@ jobs:
           pwd
           python3 motion2.py "https://www.dailymotion.com/player/metadata/video/x3b68jn" > cn.m3u8
           sleep 15
-          python3 motion2.py "https://www.dailymotion.com/player/metadata/video/x8qgo8k" > bsp.m3u8
-          sleep 15
           python3 motion2.py "https://www.dailymotion.com/player/metadata/video/xxtuy6" > fun.m3u8
           sleep 15
           python3 motion2.py "https://www.dailymotion.com/player/metadata/video/x7tn4fp" > bsmart.m3u8
