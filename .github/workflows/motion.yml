@@ -1,6 +1,6 @@
 name: motion
 
-# Actualisation du flux toutes les 5 heures à la 38ème minutes.
+# Actualisation du flux toutes les  heures à la 38ème minutes.
 on:
   schedule:
     - cron: '38 0/3 * * *'
