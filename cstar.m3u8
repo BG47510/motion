@@ -1,15 +1,15 @@
 #EXTM3U
 #EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=50.000000,BANDWIDTH=1667072,CODECS="avc1.64001f,mp4a.40.2",NAME="480@60"
-https://stream-10.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOFN3hQwxTIq6zADZ-0f32pP11D-zjBsMUMl2FlYB0_Tq)/p/dm/3/x5idxor/d/live-2.m3u8
+https://stream-04.dc3.dailymotion.com/sec(Lwh7JHfNhyxGUc6wDbgCy1tRw-H_TW2CjrcJ4haa8Uu_dPlr0vzV14Xh-8YNgCSE)/dm/3/x5idxor/d/live-2.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=50.000000,BANDWIDTH=1667072,CODECS="avc1.64001f,mp4a.40.2",NAME="480@60"
-https://stream-09.dc3.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOFN3hQwxTIq6zADZ-0f32pP11D-zjBsMUMl2FlYB0_Tq)/p/dm/3/x5idxor/d/live-2.m3u8
+https://stream-02.dc3.dailymotion.com/sec(Lwh7JHfNhyxGUc6wDbgCy1tRw-H_TW2CjrcJ4haa8Uu_dPlr0vzV14Xh-8YNgCSE)/dm/3/x5idxor/d/live-2.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://stream-10.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOFN3hQwxTIq6zADZ-0f32pP11D-zjBsMUMl2FlYB0_Tq)/p/dm/3/x5idxor/d/live-0.m3u8
+https://stream-04.dc3.dailymotion.com/sec(Lwh7JHfNhyxGUc6wDbgCy1tRw-H_TW2CjrcJ4haa8Uu_dPlr0vzV14Xh-8YNgCSE)/dm/3/x5idxor/d/live-0.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://stream-09.dc3.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOFN3hQwxTIq6zADZ-0f32pP11D-zjBsMUMl2FlYB0_Tq)/p/dm/3/x5idxor/d/live-0.m3u8
+https://stream-02.dc3.dailymotion.com/sec(Lwh7JHfNhyxGUc6wDbgCy1tRw-H_TW2CjrcJ4haa8Uu_dPlr0vzV14Xh-8YNgCSE)/dm/3/x5idxor/d/live-0.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://stream-10.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOFN3hQwxTIq6zADZ-0f32pP11D-zjBsMUMl2FlYB0_Tq)/p/dm/3/x5idxor/d/live-1.m3u8
+https://stream-04.dc3.dailymotion.com/sec(Lwh7JHfNhyxGUc6wDbgCy1tRw-H_TW2CjrcJ4haa8Uu_dPlr0vzV14Xh-8YNgCSE)/dm/3/x5idxor/d/live-1.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://stream-09.dc3.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOFN3hQwxTIq6zADZ-0f32pP11D-zjBsMUMl2FlYB0_Tq)/p/dm/3/x5idxor/d/live-1.m3u8
+https://stream-02.dc3.dailymotion.com/sec(Lwh7JHfNhyxGUc6wDbgCy1tRw-H_TW2CjrcJ4haa8Uu_dPlr0vzV14Xh-8YNgCSE)/dm/3/x5idxor/d/live-1.m3u8
 
 None
