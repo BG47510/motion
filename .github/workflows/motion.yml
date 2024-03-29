@@ -2,8 +2,8 @@ name: motion
 
 # Actualisation du flux toutes les 3 heures à la 38ème minutes.
 on:
-  schedule:
-    - cron: '38 0/3 * * *'
+  #schedule:
+    #- cron: '38 0/3 * * *'
 
   # Permet d'exécuter ce flux de travail manuellement à partir de l'onglet Actions
   workflow_dispatch:
